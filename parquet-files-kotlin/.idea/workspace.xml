@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76cec7e4-6d8b-4868-9109-9749cb051ff8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/parquet-files-kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ParquetReader.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ParquetWriter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/out.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ParquetReader.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ParquetWriter.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673796803833</updated>
-      <workItem from="1673796804780" duration="10952000" />
+      <workItem from="1673796804780" duration="11813000" />
     </task>
     <servers />
   </component>
